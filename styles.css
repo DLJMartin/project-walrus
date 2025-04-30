@@ -17,14 +17,6 @@ main{
 	padding:10px
 }
 
-a{
-	color:Black;
-}
-
-a:hover{
-	color:Black;
-}
-
 ul {
 	list-style-type: none;
 	margin: 0;
